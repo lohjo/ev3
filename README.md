@@ -1,6 +1,6 @@
-# EV3 Line Tracing
+# EIG EV3 Line Tracing
 
-Welcome to the EV3 Line Tracing Workshop repository.
+Welcome to the EIG EV3 Line Tracing Workshop repository.
 
 This repo contains all lesson files used during the workshop, plus competition rules and scoring details.
 
