@@ -1,4 +1,4 @@
-# EIG EV3 Line Tracing
+# EV3 Line Tracing
 
 Welcome to the EIG EV3 Line Tracing Workshop repository.
 
